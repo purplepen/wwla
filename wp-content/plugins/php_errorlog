@@ -1,0 +1,2 @@
+[13-Mar-2016 13:53:06 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/natalie4/public_html/websiteweekend.la/wp-content/plugins/hello.php on line 60
+[13-Mar-2016 13:53:16 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/natalie4/public_html/websiteweekend.la/wp-content/plugins/hello.php on line 60

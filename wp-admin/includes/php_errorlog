@@ -1,0 +1,1 @@
+[25-Aug-2016 22:00:24 CST6CDT] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/natalie4/public_html/websiteweekend.la/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
