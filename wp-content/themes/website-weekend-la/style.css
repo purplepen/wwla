@@ -1,0 +1,51 @@
+Theme Name: Website Weekend
+Theme URI: http://www.websiteweekend.la
+Description: A custom child theme
+Author: Purple Pen Production
+Author URI: http://www.purplepen.com
+Template: organic-profile
+
+.container {
+	margin: 0;
+}
+
+.page-id-69 .container {
+    margin: 0 auto !important;
+    padding: 0 !important;
+	}
+	
+.page-id-69 .row {
+	width: 100%;
+	max-width: 100%;
+	margin: 0 auto;
+	min-width: 0;
+	}
+	
+.page-id-69 h1.headline {
+	display: none;
+	}
+
+.postarea {
+	padding: 0;
+}
+
+.menu {
+	width: 100%;
+}
+
+#header #logo img {
+	padding: 5rem 0;
+}
+
+.testimonial {
+    font-size: 22px;
+    letter-spacing: -1px;
+}
+.testimonial img {
+    border-radius: 50%;
+    max-width: 150px;
+    border: solid 5px #f1f1f1;
+    margin: 20px auto;
+    display: block;
+}
+
