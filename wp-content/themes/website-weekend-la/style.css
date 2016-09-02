@@ -9,19 +9,19 @@ Template: organic-profile
 	margin: 0;
 }
 
-.page-id-69 .container {
+.fl-builder .container {
     margin: 0 auto !important;
     padding: 0 !important;
 	}
 
-.page-id-69 .row {
+.fl-builder .row {
 	width: 100%;
 	max-width: 100%;
 	margin: 0 auto;
 	min-width: 0;
 	}
 
-.page-id-69 h1.headline {
+.fl-builder h1.headline {
 	display: none;
 	}
 
@@ -55,5 +55,9 @@ Template: organic-profile
 
 .menu li li a {
 	line-height: 1.2;
-	padding: 0 0 1rem 0;
+	padding: 0.5rem 0;
+}
+
+.menu li li:last-child {
+	padding-bottom: 0.5rem;
 }
